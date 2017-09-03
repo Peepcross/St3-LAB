@@ -26,7 +26,9 @@ El proposito de estos calculos es relacionar el largo de los contigs, reads o sc
 
 ¿Cuál es el genoma que escogiste? Adjunta la referencia.
 
-Escogi el genoma de Canis Lupus Familiaris o perro domestico. https://www.ncbi.nlm.nih.gov/genome/?term=txid9615%5BOrganism:noexp%5D
+Escogi el genoma de Canis Lupus Familiaris o perro domestico.
+
+Referencia: https://www.ncbi.nlm.nih.gov/genome/?term=txid9615%5BOrganism:noexp%5D
 
 ![perro domestico](https://github.com/Peepcross/St3-LAB/blob/master/canis.png)
 
@@ -35,7 +37,7 @@ Escogi el genoma de Canis Lupus Familiaris o perro domestico. https://www.ncbi.n
 |Statistics|Value|
 |-|-|
 N50 |180 kb
-NG50 |1.2225 gb
+NG50 |1.2225 gb|
 
 ¿Qué tipo de tecnología se uso para secuenciar el genoma que escogiste?
 
@@ -55,7 +57,7 @@ Secuencia problema
 
 ¿Cuántos ORF o genes encontró ORFfinder?
 
-!(orfinder)[https://github.com/Peepcross/St3-LAB/blob/master/orfinder.png]
+![orfinder](https://github.com/Peepcross/St3-LAB/blob/master/orfinder.png)
 
 ¿Cuántos ORF o genes encontró Glimmer?
 
