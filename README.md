@@ -1,5 +1,7 @@
 # Laboratorio 03 - Ensamblaje de genomas y predicción de genes
 
+### Por José Miguel Yañez Mena 
+
 ## Parte 1: El artículo genoma
 
 ### Genoma de interes 	Canis lupus familiaris
