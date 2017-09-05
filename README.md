@@ -77,5 +77,4 @@ Es un sistema para encontrar ADN microbial, pero tambien una version para eucari
 
 ### BLAST
 
-
-
+Los genes entregados por ambos programas ORFinder y Glimmer apuntan al genoma completo de Haemophilus influenzae strain FDAARGOS_199 chromosome y se encuentra en el GENBANK con el numero CP020411.1.
