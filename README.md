@@ -77,4 +77,4 @@ Es un sistema para encontrar ADN microbial, pero tambien una version para eucari
 
 ### BLAST
 
-Los genes entregados por ambos programas ORFinder y Glimmer apuntan a   proteinas Formato deshidrogenasa de Haemophilus influenzae. La informacion sobre estas se encuentra en Genpept bajo el numero: WP_005693890.1 y WP_014326509.1 respectivamente. 
+Los genes entregados por ambos programas ORFinder y Glimmer apuntan a   proteinas formato deshidrogenasa de Haemophilus influenzae. La informacion sobre estas se encuentra en Genpept bajo el numero: WP_005693890.1 y WP_014326509.1 respectivamente. 
